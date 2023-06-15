@@ -1,0 +1,19 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "studentname": "vishal kumar",
+      "email": "vishal343332@gmil.com"
+    },
+    {
+      "id": 2,
+      "studentname": "sumit",
+      "email": "sumit@gmil.com"
+    },
+    {
+      "id": 3,
+      "studentname": "rahul",
+      "email": "rahul@gmil.comcvcvc"
+    }
+  ]
+}
